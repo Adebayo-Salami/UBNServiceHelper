@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UBNServiceHelper", "UBNServiceHelper\UBNServiceHelper.csproj", "{EC4778E2-5C02-4DD2-AA65-817A90313FD4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PinIssuance", "..\PinIssuance\PinIssuance.csproj", "{A3B937D7-1329-4653-8070-98FE987E499D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC4778E2-5C02-4DD2-AA65-817A90313FD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC4778E2-5C02-4DD2-AA65-817A90313FD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC4778E2-5C02-4DD2-AA65-817A90313FD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC4778E2-5C02-4DD2-AA65-817A90313FD4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3B937D7-1329-4653-8070-98FE987E499D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3B937D7-1329-4653-8070-98FE987E499D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3B937D7-1329-4653-8070-98FE987E499D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3B937D7-1329-4653-8070-98FE987E499D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {01344BC7-3C05-4599-8C0A-589754CF6931}
+	EndGlobalSection
+EndGlobal

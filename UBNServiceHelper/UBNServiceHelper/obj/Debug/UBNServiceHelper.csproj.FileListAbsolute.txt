@@ -1,0 +1,11 @@
+C:\Users\Adebayo Salami\Documents\Projects\UBNServiceHelper\UBNServiceHelper\UBNServiceHelper\bin\UBNServiceHelper.dll.config
+C:\Users\Adebayo Salami\Documents\Projects\UBNServiceHelper\UBNServiceHelper\UBNServiceHelper\bin\UBNServiceHelper.dll
+C:\Users\Adebayo Salami\Documents\Projects\UBNServiceHelper\UBNServiceHelper\UBNServiceHelper\bin\UBNServiceHelper.pdb
+C:\Users\Adebayo Salami\Documents\Projects\UBNServiceHelper\UBNServiceHelper\UBNServiceHelper\bin\PinIssuance.dll
+C:\Users\Adebayo Salami\Documents\Projects\UBNServiceHelper\UBNServiceHelper\UBNServiceHelper\bin\ThalesCore.dll
+C:\Users\Adebayo Salami\Documents\Projects\UBNServiceHelper\UBNServiceHelper\UBNServiceHelper\bin\PinIssuance.pdb
+C:\Users\Adebayo Salami\Documents\Projects\UBNServiceHelper\UBNServiceHelper\UBNServiceHelper\bin\PinIssuance.dll.config
+C:\Users\Adebayo Salami\Documents\Projects\UBNServiceHelper\UBNServiceHelper\UBNServiceHelper\obj\Debug\UBNServiceHelper.csprojAssemblyReference.cache
+C:\Users\Adebayo Salami\Documents\Projects\UBNServiceHelper\UBNServiceHelper\UBNServiceHelper\obj\Debug\UBNServiceHelper.csproj.CopyComplete
+C:\Users\Adebayo Salami\Documents\Projects\UBNServiceHelper\UBNServiceHelper\UBNServiceHelper\obj\Debug\UBNServiceHelper.dll
+C:\Users\Adebayo Salami\Documents\Projects\UBNServiceHelper\UBNServiceHelper\UBNServiceHelper\obj\Debug\UBNServiceHelper.pdb

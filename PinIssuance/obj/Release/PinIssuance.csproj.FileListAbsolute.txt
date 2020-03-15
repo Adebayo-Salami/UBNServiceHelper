@@ -1,0 +1,1 @@
+C:\Projects\PrimeIntegrator\PinIssuance\obj\Release\PinIssuance.csprojResolveAssemblyReference.cache
